@@ -1,7 +1,7 @@
 # Writeup CTF
 
 Ce référentiel contient les Writeup (solutions) des CTF (Capture The Flag) auxquels j'ai participé. 
-Tous les Writeup publiés ici sont autorisés à la publication et sont rédigés dans un souci de partage de connaissances et d'apprentissage et de sauvegarde.
+Tous les Writeup publiés ici sont autorisés à la publication et sont rédigés dans un souci de partage,connaissances, d'apprentissage et de sauvegarde.
 
 ## Structure du répertoire
 
